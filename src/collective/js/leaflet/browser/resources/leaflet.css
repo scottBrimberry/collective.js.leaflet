@@ -364,3 +364,12 @@ a.leaflet-active {
 .leaflet-popup-close-button {
 	background: white url(++resource++collective.js.leaflet/images/popup-close.png);
 	}
+
+/* Fullscreen */
+.leaflet-fullscreen {
+	height: 100% !important;
+	width: 100%;
+	position: fixed !important;
+	top: 0;
+	left: 0;
+}
